@@ -16,3 +16,5 @@ check token with info
 # *Disclaimer*
 
 Use the tool at your own risk!
+
+Education Purposes only!

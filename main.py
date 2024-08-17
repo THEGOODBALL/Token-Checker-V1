@@ -95,7 +95,7 @@ def check_token(token):
     
 
 def main():
-    os.system("Title Nexus Token Checker")
+    os.system("Title Token Checker")
     print(Fore.LIGHTMAGENTA_EX + '''$$$$$$$$\        $$\                                  $$$$$$\  $$\                           $$\                                 $$\    $$\   $$\   
 \__$$  __|       $$ |                                $$  __$$\ $$ |                          $$ |                                $$ |   $$ |$$$$ |  
    $$ | $$$$$$\  $$ |  $$\  $$$$$$\  $$$$$$$\        $$ /  \__|$$$$$$$\   $$$$$$\   $$$$$$$\ $$ |  $$\  $$$$$$\   $$$$$$\        $$ |   $$ |\_$$ |  
